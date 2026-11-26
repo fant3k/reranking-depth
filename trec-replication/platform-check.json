@@ -1,0 +1,9 @@
+{
+  "platforms": [
+    "macOS arm64",
+    "Ubuntu x86_64"
+  ],
+  "queries": 186,
+  "identical_route_depths": true,
+  "maximum_per_query_ndcg_difference": 3.3306690738754696e-16
+}

@@ -1,0 +1,43 @@
+{
+  "equality": {
+    "quality.json": true,
+    "decisions.json": true,
+    "pool_audit.json": true,
+    "batch_parity.json": true,
+    "allocation.json": true
+  },
+  "pilot_max_abs_ndcg_difference": 0.0,
+  "identical_trace_inputs": true,
+  "primary_median_p95_ms": {
+    "10": {
+      "fixed10": 39.23877458059904,
+      "fixed20": 118.22524803051235,
+      "split20": 107.56010953059558,
+      "pre": 94.9452995810588,
+      "post": 84.57052569156068
+    },
+    "26": {
+      "fixed10": 67.53576973296728,
+      "fixed20": 1275.0866590933126,
+      "split20": 842.4263630457517,
+      "pre": 383.7257949026934,
+      "post": 289.61070467657913
+    }
+  },
+  "repeat_median_p95_ms": {
+    "10": {
+      "fixed10": 39.061873141963574,
+      "fixed20": 118.95129147942497,
+      "split20": 106.53572782430268,
+      "pre": 93.42971798614595,
+      "post": 83.47539834999219
+    },
+    "26": {
+      "fixed10": 68.5164999664721,
+      "fixed20": 1307.2823103189876,
+      "split20": 849.0419032054433,
+      "pre": 401.53494863352535,
+      "post": 286.44096616171737
+    }
+  }
+}

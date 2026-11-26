@@ -1,0 +1,4 @@
+5d3e70fd0c9ff14b9b5169a51e957b7a9c74897afd0a35ce4bd318150c1d4d4a  data/model.onnx
+d241a60d5e8f04cc1b2b3e9ef7a4921b27bf526d9f6050ab90f9267a1f9e5c66  data/tokenizer.json
+2113dd7a7b5d2f0c42b3f47b6fe950ae2854087ca9c16e8fbb23e66de0e56ddf  results/confirm/post.joblib
+19e3f4170ffcb48c184a137316ecc07ee3ced8959097fbf9de5fabf8e9493f0a  trec-replication/excluded-query-hashes.txt

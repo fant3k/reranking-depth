@@ -1,0 +1,36 @@
+{
+  "source_sha256": {
+    "corpus.jsonl.gz": "cc226c6b4620695da43d902ef1a4e46ca9d93911e8e9e5b530b0b4d5c3aada27",
+    "2023test.qrel": "be97b96c0bbd942dcc133ac01f5edd67840dc15fa720c0b62c39f3fe7a3ad30b",
+    "2023_test_queries.tsv.gz": "f06fefe7f775a1bdbf8dfa45cd3cf7816555e8677b3178d8783f76c022e266b0"
+  },
+  "counts": {
+    "topics": 186,
+    "zero_ideal": 0
+  },
+  "n": 186,
+  "judged_ids_missing_title": 158,
+  "deep": 0.3924731182795699,
+  "mean": {
+    "fixed15": 0.7284874740739512,
+    "fixed20": 0.7368411196951423,
+    "post": 0.7231042265721888
+  },
+  "fixed15_minus": {
+    "fixed20": {
+      "delta": -0.008353645621191128,
+      "ci": [
+        -0.01598331215151457,
+        -0.001079685342204418
+      ]
+    },
+    "post": {
+      "delta": 0.005383247501762172,
+      "ci": [
+        -0.0038328899966239348,
+        0.014284011393025903
+      ]
+    }
+  },
+  "passes_margin": false
+}
